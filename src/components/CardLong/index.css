@@ -1,0 +1,18 @@
+
+
+.cardLong {
+    display: flex;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 25px
+}
+
+.cardLong__text {
+    margin-left: 20px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+}
